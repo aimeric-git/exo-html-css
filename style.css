@@ -1,0 +1,104 @@
+.apps {
+    width: 28px;
+    height: 8px;
+    background-position: -132px -38px;
+    opacity: 0.55;
+    background-image: url("https://ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+  background-size: 500px 68px;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    text-decoration: underline;
+  }
+img{
+    float: center;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: 30%; 
+    margin-bottom: 2%;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    display: block; 
+}
+.textinput{
+    border: 1px solid  rgba(221, 199, 199, 0.8);
+    border-radius: 70px;
+    margin: auto; 
+    width: 600px; 
+    height: 50px;
+}
+.button-recherche{
+    padding: auto; 
+    width: 150px;
+    height: 40px;
+    border: none;
+    margin: 20px; 
+    margin-left: 25%;
+    color: rgb(116, 213, 216);
+}
+.button-recherche:hover {
+    border: 1px solid rgb(221, 199, 199); 
+    text-decoration: black;  
+    color: black; 
+}
+.button-chance{
+    padding : auto; 
+    width: 150px;
+    height: 40px;
+    border: none;
+    color: rgb(116, 213, 216);
+}
+.button-chance:hover{
+    border: 1px solid rgb(221, 199, 199); 
+    text-decoration: black;  
+    color: black; 
+}
+footer{
+    padding-bottom: 4%;
+    margin-top: 5.5%;
+    background-color: rgb(252, 238, 238);
+    position: bottom;
+}
+.lienconnexion{
+    border: 1px solid black; 
+    background-color: rgb(90, 40, 207);
+    padding: 8px;
+    color: white; 
+}
+.liste1{
+    display: inline;
+    float: left;
+    padding-top: 1%;
+}
+.liste2{
+    display: inline;
+    float: right; 
+    padding-top: 1%;
+}
+.lienfooter{
+    color: rgb(163, 138, 138);
+}
+.malagasy{
+    margin-left: 35%;
+}
